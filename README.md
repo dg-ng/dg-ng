@@ -17,6 +17,7 @@
 
 **Data Analysis & Visualization**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
@@ -25,11 +26,17 @@
 **Machine Learning & AI**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
 
 **Database**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+
+**Low-Code & Platform**
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![Microsoft Power Platform](https://img.shields.io/badge/Power%20Platform-258FFA?style=flat&logo=microsoft&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -39,6 +46,27 @@
 ---
 
 ## 📂 Featured Projects
+
+### 💳 [Financial Transactions Analysis — Customer Behavior & CLV Prediction](https://github.com/dg-ng/BI-Nhom7)
+> Python · RFM · XGBoost · Logistic Regression · K-Means · Plotly Dash
+
+Built a comprehensive Business Intelligence system on 1M+ credit card transactions. Implemented RFM segmentation, predicted 6-month Customer Lifetime Value with XGBoost (R² = 0.90), and built a behavioral decline prediction model (ROC-AUC = 0.80). Delivered a 5-tab interactive Plotly Dash dashboard with cross-filtering for executive, marketing, and retention teams.
+
+---
+
+### 🛒 [E-Commerce Sales & Product Analysis](https://github.com/dg-ng/ecommerce-analysis-sql-powerbi)
+> SQL · Power BI · DAX · Business Analysis
+
+Analyzed 3 years of e-commerce data (2012–Q1 2015) covering $1.94M revenue across 40,000+ units sold. Built SQL queries for cohort analysis, product performance, and refund risk assessment. Produced a Power BI report with insights on gross margin trends (61% → 63.4%), product-level refund rates, and conversion optimization recommendations.
+
+---
+
+### 🔧 [Sales Pipeline Tracker with AI Insights](https://github.com/dg-ng/sales-pipeline-tracker)
+> Microsoft Power Platform · Power Apps · Power Automate · Dataverse · Power BI · Copilot Studio
+
+End-to-end low-code CRM solution built entirely on Microsoft Power Platform. Features a Canvas App for deal management, 2 automated email flows triggered by Dataverse events, a Power BI dashboard with custom DAX measures, and a Copilot Studio AI agent with 3 topics and conditional branching for natural language pipeline queries.
+
+---
 
 ### 🔍 [Topic Modeling for Vietnamese Labor Market](https://github.com/dg-ng/nlp-topic-modeling-vietnamese-labor)
 > Python · BERTopic · SBERT · Scikit-learn · Selenium
@@ -74,6 +102,8 @@ Conducted full business analysis for Lan Anh Electric Vehicle — from As-Is pro
 - 🎓 **50% Entrance Scholarship** — UEH, 2023
 - 🏅 **IBM Data Science Professional Certificate** — IBM · Coursera
 - 📊 **Data Analysis and Visualization with Power BI** — Microsoft · Coursera
+- ⚡ **Introduction to Microsoft Power Platform** — Microsoft · Coursera
+- 🔧 **Use Power Platform for Custom & Automated Solutions** — Microsoft · Coursera
 
 ---
 
