@@ -2,7 +2,7 @@
 
 🎓 **Data Science** student at **University of Economics Ho Chi Minh City (UEH)**
 
-🔍 Passionate about turning raw data into meaningful insights — from building databases and NLP models to applying deep learning in financial markets.
+🔍 Curious about data in all its forms, from building prediction models and designing databases to crafting dashboards that tell a clear story. I enjoy working across the full stack of data work, whether it's writing SQL, training an ML model, or turning numbers into insights that drive real decisions.
 
 📌 Currently seeking a **Data Analyst / Data Scientist** internship.
 
