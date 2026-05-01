@@ -1,4 +1,19 @@
-# Hi there, I'm Dũng 👋
+<div align="center">
+
+<!-- TYPING SVG -->
+<a href="https://github.com/dg-ng">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there%2C+I%27m+D%C5%A9ng+%F0%9F%91%8B;Data+Science+%40+UEH+%7C+HCMC%2C+Vietnam;Python+%C2%B7+SQL+%C2%B7+ML+%C2%B7+Power+BI;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-dg--ng-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dg-ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dung--nguyen070205-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen070205)
+[![Gmail](https://img.shields.io/badge/Gmail-dungnguyenbo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dungnguyenbo@gmail.com)
+
+</div>
+
+---
 
 🎓 **Data Science** student at **University of Economics Ho Chi Minh City (UEH)**
 
