@@ -2,14 +2,14 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/dg-ng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=Hi+there%2C+I%27m+D%C5%A9ng+%F0%9F%91%8B;Data+Science+%40+UEH+%7C+HCMC%2C+Vietnam;Aspiring+Data+Analyst+%2F+Data+Scientist;Python+%C2%B7+SQL+%C2%B7+ML+%C2%B7+Power+BI;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=0891B2&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Hi+there%2C+I%27m+D%C5%A9ng+%F0%9F%91%8B;Data+Science+%40+UEH+%7C+HCMC%2C+Vietnam;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-dg--ng-22D3EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dg-ng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dung--nguyen070205-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen070205)
-[![Gmail](https://img.shields.io/badge/Gmail-dungnguyenbo@gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dungnguyenbo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dg--ng-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dg-ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dung--nguyen070205-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dung-nguyen070205)
+[![Gmail](https://img.shields.io/badge/Gmail-dungnguyenbo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dungnguyenbo@gmail.com)
 
 </div>
 
