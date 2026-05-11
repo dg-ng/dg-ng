@@ -119,6 +119,7 @@ Conducted full business analysis for Lan Anh Electric Vehicle — from As-Is pro
 - 📊 **Data Analysis and Visualization with Power BI** — Microsoft · Coursera
 - ⚡ **Introduction to Microsoft Power Platform** — Microsoft · Coursera
 - 🔧 **Use Power Platform for Custom & Automated Solutions** — Microsoft · Coursera
+- [![HackerRank](https://img.shields.io/badge/SQL_Advanced-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/dg-ng) **SQL (Advanced)** — HackerRank
 
 ---
 
